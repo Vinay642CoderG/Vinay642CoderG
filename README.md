@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinay642coderg&label=Profile%20views&color=0e75b6&style=flat" alt="vinay642coderg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinay642coderg" alt="vinay642coderg" /></a> </p>
-
 - 🔭 I’m currently working on [Sanskritbharti](https://github.com/arvindiit2/sanskritbharti)
 
 - 🌱 I’m currently learning **Advance React, Redux Toolkit.**
@@ -12,6 +10,8 @@
 - 💬 Ask me about **React, Django, Tailwind, Bootstrap**
 
 - 📫 How to reach me **ytvinay345@gmail.com**
+
+- ⚡ Fun fact **I think I am funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
