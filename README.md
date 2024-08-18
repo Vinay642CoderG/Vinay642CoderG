@@ -1,3 +1,4 @@
+![logo](https://github.com/Vinay642CoderG/Vinay642CoderG/blob/main/GITHUB_png.png)
 <h1 align="center">Hi 👋, I'm Vinay Bhagat</h1>
 <h3 align="center">A passionate FullStack Web developer from India</h3>
 
