@@ -1,4 +1,4 @@
-# Vinay Bhagat
+# Hi, I'm Vinay 👋
 
 Full Stack Developer building web applications with MERN Stack, Spring Boot, and exploring AI integration.
 
