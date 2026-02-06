@@ -56,12 +56,19 @@ Recent B.Tech graduate focused on full stack web development, with hands-on expe
 - Exploring system design and scalable architecture
 - Improving backend optimization and API design
 
-## Projects
+## 🚀 Projects
 
-- **ATS Resume Checker** – AI tool for resume optimization with scoring and recommendations
-- **Task Management App** – MERN stack app with JWT authentication
-- **Student Management System** – Spring Boot CRUD application with MySQL
-- **YouTube Clone** – Video streaming app with React.js and Tailwind CSS
+- **[ATS Resume Checker](https://github.com/Vinay642CoderG/ats-resume-checker)**  
+  AI-powered tool for resume optimization with scoring and actionable recommendations.
+
+- **[Task Management App](#)**  
+  MERN stack application with JWT-based authentication and task management features.
+
+- **[Student Management System](#)**  
+  Spring Boot CRUD application with MySQL for managing student records.
+
+- **[YouTube Clone](https://github.com/Vinay642CoderG/Youtube_Clone_With_ReactJS)**  
+  Video streaming application built with React.js and Tailwind CSS.
 
 ## Open To
 
@@ -70,7 +77,3 @@ Collaborating on open-source projects, learning new technologies, and contributi
 ---
 
 **Connect:** [LinkedIn](https://linkedin.com/in/vinay-bhagat-dev)
-
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinay642coderg&theme=default" alt="GitHub Streak Stats" />
-</p>
