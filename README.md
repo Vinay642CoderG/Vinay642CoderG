@@ -66,7 +66,7 @@ Collaborating on open-source projects, learning new technologies, and contributi
 
 ---
 
-**Connect:** [LinkedIn](https://linkedin.com/in/vinay-bhagat-dev) | **Email:** ytvinay345@gmail.com
+**Connect:** [LinkedIn](https://linkedin.com/in/vinay-bhagat-dev)
 
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinay642coderg&theme=default" alt="GitHub Streak Stats" />
