@@ -1,7 +1,7 @@
 # Hi, I'm Vinay 👋
 
 ## 📊 About Me
-Full Stack Developer | Spring Boot • Stack MERN • Exploring AI
+Full Stack Developer | Spring Boot • MERN Stack • Exploring AI
 
 Recent B.Tech graduate focused on full stack web development, with hands-on experience building modern web applications and exploring AI-powered features.
 
