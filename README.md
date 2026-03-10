@@ -7,7 +7,7 @@ Recent B.Tech graduate focused on full stack web development, with hands-on expe
 
 ## What I Do
 
-- Build full-stack web applications with React.js, Node.js, Express.js, and Spring Boot
+- Build full-stack web applications with React.js, Node.js and Express.js
 - Develop RESTful APIs and database-driven backend systems
 - Work with MySQL, MongoDB for data management
 - Explore machine learning and AI to enhance web applications
@@ -18,8 +18,6 @@ Recent B.Tech graduate focused on full stack web development, with hands-on expe
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **Frontend:**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -29,7 +27,6 @@ Recent B.Tech graduate focused on full stack web development, with hands-on expe
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **Backend:**  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -45,10 +42,6 @@ Recent B.Tech graduate focused on full stack web development, with hands-on expe
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-**Currently Learning:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
 ## Current Focus
 
 - Building AI-powered web applications
@@ -61,11 +54,13 @@ Recent B.Tech graduate focused on full stack web development, with hands-on expe
 - **[ATS Resume Checker](https://github.com/Vinay642CoderG/ats-resume-checker)**  
   AI-powered tool for resume optimization with scoring and actionable recommendations.
 
-- **[Task Management App](#)**  
-  MERN stack application with JWT-based authentication and task management features.
+- **[Blogify-MERN](https://github.com/Vinay642CoderG/Blogiy-MERN.git)**  
+  Built a full-stack blog platform with user authentication, JWT-based login and AI-powered content
+  suggestions.
 
-- **[Student Management System](#)**  
-  Spring Boot CRUD application with MySQL for managing student records.
+- **[E-Commerce Store](#)**  
+  - Built a fully functional e-commerce store with product listing, shopping cart, and user authentication.
+  - Implemented product recommendation feature and display real-time product data.
 
 - **[YouTube Clone](https://github.com/Vinay642CoderG/Youtube_Clone_With_ReactJS)**  
   Video streaming application built with React.js and Tailwind CSS.
