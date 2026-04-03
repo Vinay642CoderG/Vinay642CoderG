@@ -51,18 +51,22 @@ Recent B.Tech graduate focused on full stack web development, with hands-on expe
 
 ## 🚀 Projects
 
-- **[ATS Resume Checker](https://github.com/Vinay642CoderG/ats-resume-checker)**  
+- **[ATS Resume Checker - Python](https://github.com/Vinay642CoderG/ats-resume-checker)**  
   AI-powered tool for resume optimization with scoring and actionable recommendations.
+
+- **[E-Library - Django](https://github.com/Vinay642CoderG/e-library)**
+  - Built a fully functional e-library platform with book listing, user authentication, and library management features.
+  - Implemented book recommendation feature and display real-time book availability data.
 
 - **[Blogify-MERN](https://github.com/Vinay642CoderG/Blogiy-MERN.git)**  
   Built a full-stack blog platform with user authentication, JWT-based login and AI-powered content
   suggestions.
 
-- **[E-Commerce Store](#)**  
+- **[E-Commerce Store - MERN](#)**  
   - Built a fully functional e-commerce store with product listing, shopping cart, and user authentication.
   - Implemented product recommendation feature and display real-time product data.
 
-- **[YouTube Clone](https://github.com/Vinay642CoderG/Youtube_Clone_With_ReactJS)**  
+- **[YouTube Clone - REACTJS](https://github.com/Vinay642CoderG/Youtube_Clone_With_ReactJS)**  
   Video streaming application built with React.js and Tailwind CSS.
 
 ## Open To
